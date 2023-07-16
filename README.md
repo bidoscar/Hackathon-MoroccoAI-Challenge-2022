@@ -1,4 +1,6 @@
-# Hackathon-MoroccoAI-Challenge-2022
+# Hackathon-MoroccoAI-Challenge-2022 (My team finished top 5)
+
+From https://morocco.ai/events/conferences/MoroccoAI-Conference-2022/
 
 ## Description
 Fintech (Financial Technology) is the term used to augment, streamline, digitize, and disrupt
